@@ -1,0 +1,37 @@
+body
+{
+	max-width: 650px;
+	margin: 40px auto;
+	font-size: 18px;
+	line-height: 1.6;
+	color: #444;
+	padding: 0 10px;
+}
+.citation
+{
+	margin-top: 0;
+	margin-left: 40px;
+}
+q
+{
+	margin-left: 40px;
+}
+h1, h2, h3
+{
+	line-height: 1.2;
+}
+.bold
+{
+	font-weight: bold;
+}
+.monospace
+{
+	font-family: monospace;
+}
+video 
+{ 
+   width:100%;
+   max-width:650px;
+   height:auto;
+}
+
